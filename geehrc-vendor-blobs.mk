@@ -27,6 +27,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/bin/efsks:system/bin/efsks \
     vendor/lge/geehrc_sp/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/lge/geehrc_sp/proprietary/bin/ks:system/bin/ks \
+    vendor/lge/geehrc_sp/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
     vendor/lge/geehrc_sp/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/lge/geehrc_sp/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/lge/geehrc_sp/proprietary/bin/netmgrd:system/bin/netmgrd \
@@ -39,10 +40,10 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/lge/geehrc_sp/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
     vendor/lge/geehrc_sp/proprietary/bin/thermald:system/bin/thermald \
+    vendor/lge/geehrc_sp/proprietary/bin/time-daemon:system/bin/time-daemon \
     vendor/lge/geehrc_sp/proprietary/bin/usbhub:system/bin/usbhub \
     vendor/lge/geehrc_sp/proprietary/bin/usbhub_init:system/bin/usbhub_init \
     vendor/lge/geehrc_sp/proprietary/bin/v4l2-qcamera-app:system/bin/v4l2-qcamera-app \
-    vendor/lge/geehrc_sp/proprietary/bin/vold:system/bin/vold \
     vendor/lge/geehrc_sp/proprietary/etc/DxHDCP.cfg:system/etc/DxHDCP.cfg \
     vendor/lge/geehrc_sp/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
     vendor/lge/geehrc_sp/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
