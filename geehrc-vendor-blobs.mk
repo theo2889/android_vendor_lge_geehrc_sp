@@ -40,7 +40,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/lge/geehrc_sp/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
     vendor/lge/geehrc_sp/proprietary/bin/thermald:system/bin/thermald \
-    vendor/lge/geehrc_sp/proprietary/bin/time-daemon:system/bin/time-daemon \
+    vendor/lge/geehrc_sp/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/lge/geehrc_sp/proprietary/bin/usbhub:system/bin/usbhub \
     vendor/lge/geehrc_sp/proprietary/bin/usbhub_init:system/bin/usbhub_init \
     vendor/lge/geehrc_sp/proprietary/bin/v4l2-qcamera-app:system/bin/v4l2-qcamera-app \
