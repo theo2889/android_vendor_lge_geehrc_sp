@@ -69,6 +69,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
     vendor/lge/geehrc_sp/proprietary/lib/hw/copybit.msm8960.so:system/lib/hw/copybit.msm8960.so \
     vendor/lge/geehrc_sp/proprietary/lib/hw/gralloc.msm8960.so:system/lib/hw/gralloc.msm8960.so \
+    vendor/lge/geehrc_sp/proprietary/lib/hw/hwcomposer.msm8960.so:system/lib/hw/hwcomposer.msm8960.so \
     vendor/lge/geehrc_sp/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
     vendor/lge/geehrc_sp/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/lge/geehrc_sp/proprietary/lib/libAKM.so:system/lib/libAKM.so \
