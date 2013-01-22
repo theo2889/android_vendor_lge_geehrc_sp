@@ -162,4 +162,10 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/lib/libtilerenderer.so:system/lib/libtilerenderer.so \
     vendor/lge/geehrc_sp/proprietary/lib/libxml.so:system/lib/libxml.so \
     vendor/lge/geehrc_sp/proprietary/lib/lib_dlb_msd.so:system/lib/lib_dlb_msd.so \
-    vendor/lge/geehrc_sp/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so
+    vendor/lge/geehrc_sp/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
+    vendor/lge/geehrc_sp/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
+    vendor/lge/geehrc_sp/proprietary/vendor/lib/hw/power.qcom.so:system/vendor/lib/hw/power.qcom.so \
+    vendor/lge/geehrc_sp/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
+    vendor/lge/geehrc_sp/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
+    vendor/lge/geehrc_sp/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
+    vendor/lge/geehrc_sp/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so
