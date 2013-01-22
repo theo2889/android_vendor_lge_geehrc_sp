@@ -137,6 +137,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/lib/libOpenCL.so:system/lib/libOpenCL.so \
     vendor/lge/geehrc_sp/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
     vendor/lge/geehrc_sp/proprietary/lib/liboverlay.so:system/lib/liboverlay.so \
+    vendor/lge/geehrc_sp/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
+    vendor/lge/geehrc_sp/proprietary/lib/libq3d.so:system/lib/libq3d.so \
     vendor/lge/geehrc_sp/proprietary/lib/libqcci_legacy.so:system/lib/libqcci_legacy.so \
     vendor/lge/geehrc_sp/proprietary/lib/libqdi.so:system/lib/libqdi.so \
     vendor/lge/geehrc_sp/proprietary/lib/libqdp.so:system/lib/libqdp.so \
