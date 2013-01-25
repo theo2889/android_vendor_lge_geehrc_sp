@@ -39,6 +39,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/lge/geehrc_sp/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/lge/geehrc_sp/proprietary/bin/radish:system/bin/radish \
+    vendor/lge/geehrc_sp/proprietary/bin/riva_ramdump:system/bin/riva_ramdump \
     vendor/lge/geehrc_sp/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/lge/geehrc_sp/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
     vendor/lge/geehrc_sp/proprietary/bin/thermald:system/bin/thermald \
