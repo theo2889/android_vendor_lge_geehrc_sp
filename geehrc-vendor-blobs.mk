@@ -64,7 +64,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
     vendor/lge/geehrc_sp/proprietary/etc/firmware/wcd9310/wcd9310_anc.bin:system/etc/firmware/wcd9310/wcd9310_anc.bin \
     vendor/lge/geehrc_sp/proprietary/etc/firmware/wcd9310/wcd9310_mbhc.bin:system/etc/firmware/wcd9310/wcd9310_mbhc.bin \
-    vendor/lge/geehrc_sp/proprietary/etc/vold.fstab:system/etc/vold.fstab \
     vendor/lge/geehrc_sp/proprietary/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
     vendor/lge/geehrc_sp/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
     vendor/lge/geehrc_sp/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
