@@ -26,7 +26,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/lge/geehrc_sp/proprietary/bin/ds_fmc_appd:system/bin/ds_fmc_appd \
     vendor/lge/geehrc_sp/proprietary/bin/efsks:system/bin/efsks \
-    vendor/lge/geehrc_sp/proprietary/bin/gsiff_daemon:system/bin/gsiff_daemon \
     vendor/lge/geehrc_sp/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/lge/geehrc_sp/proprietary/bin/ks:system/bin/ks \
     vendor/lge/geehrc_sp/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
@@ -117,8 +116,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/lib/libllvm-a3xx.so:system/lib/libllvm-a3xx.so \
     vendor/lge/geehrc_sp/proprietary/lib/libllvm-arm.so:system/lib/libllvm-arm.so \
     vendor/lge/geehrc_sp/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
-    vendor/lge/geehrc_sp/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
-    vendor/lge/geehrc_sp/proprietary/lib/libloc_adapter.so:system/lib/libloc_adapter.so \
     vendor/lge/geehrc_sp/proprietary/lib/libmemalloc.so:system/lib/libmemalloc.so \
     vendor/lge/geehrc_sp/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
     vendor/lge/geehrc_sp/proprietary/lib/libmmcamera_faceproc.so:system/lib/libmmcamera_faceproc.so \
@@ -142,7 +139,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
     vendor/lge/geehrc_sp/proprietary/lib/liboverlay.so:system/lib/liboverlay.so \
     vendor/lge/geehrc_sp/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
-    vendor/lge/geehrc_sp/proprietary/lib/libq3d.so:system/lib/libq3d.so \
     vendor/lge/geehrc_sp/proprietary/lib/libqcci_legacy.so:system/lib/libqcci_legacy.so \
     vendor/lge/geehrc_sp/proprietary/lib/libqdi.so:system/lib/libqdi.so \
     vendor/lge/geehrc_sp/proprietary/lib/libqdp.so:system/lib/libqdp.so \
