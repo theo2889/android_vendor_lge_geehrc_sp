@@ -27,7 +27,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/bin/ks:system/bin/ks \
     vendor/lge/geehrc_sp/proprietary/bin/mm-audio-send-cal:system/bin/mm-audio-send-cal \
     vendor/lge/geehrc_sp/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
-    vendor/lge/geehrc_sp/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/lge/geehrc_sp/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/lge/geehrc_sp/proprietary/bin/nl_listener:system/bin/nl_listener \
     vendor/lge/geehrc_sp/proprietary/bin/PktRspTest:system/bin/PktRspTest \
@@ -44,7 +43,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/bin/sns_dsps_tc0001:system/bin/sns_dsps_tc0001 \
     vendor/lge/geehrc_sp/proprietary/bin/sns_smr_loopback_test:system/bin/sns_smr_loopback_test \
     vendor/lge/geehrc_sp/proprietary/bin/test_diag:system/bin/test_diag \
-    vendor/lge/geehrc_sp/proprietary/bin/thermald:system/bin/thermald \
     vendor/lge/geehrc_sp/proprietary/bin/usbhub:system/bin/usbhub \
     vendor/lge/geehrc_sp/proprietary/bin/usbhub_init:system/bin/usbhub_init \
     vendor/lge/geehrc_sp/proprietary/bin/v4l2-qcamera-app:system/bin/v4l2-qcamera-app \
@@ -74,6 +72,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/lib/egl/libplayback_adreno200.so:system/lib/egl/libplayback_adreno200.so \
     vendor/lge/geehrc_sp/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
     vendor/lge/geehrc_sp/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
+    vendor/lge/geehrc_sp/proprietary/lib/hw/lights.msm8960.so:system/lib/hw/lights.msm8960.so \
+    vendor/lge/geehrc_sp/proprietary/lib/hw/lights.msm8960.so:obj/lib/hw/lights.msm8960.so \
     vendor/lge/geehrc_sp/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/lge/geehrc_sp/proprietary/lib/libAKM.so:system/lib/libAKM.so \
     vendor/lge/geehrc_sp/proprietary/lib/libalsautils.so:system/lib/libalsautils.so \
@@ -159,7 +159,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/lib/libqmi_csvt_srvc.so:system/lib/libqmi_csvt_srvc.so \
     vendor/lge/geehrc_sp/proprietary/lib/libqmi_encdec.so:system/lib/libqmi_encdec.so \
     vendor/lge/geehrc_sp/proprietary/lib/libQSEEComAPI.so:system/lib/libQSEEComAPI.so \
-    vendor/lge/geehrc_sp/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/lge/geehrc_sp/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
     vendor/lge/geehrc_sp/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
     vendor/lge/geehrc_sp/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
